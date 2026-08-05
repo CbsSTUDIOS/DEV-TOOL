@@ -1,4 +1,4 @@
-local CBS_CurrentVersion = "1.0.0"
+local CBS_CurrentVersion = "1.0.1"
 local CBS_GithubRepo = "CbsSTUDIOS/DEV-TOOL"
 
 
