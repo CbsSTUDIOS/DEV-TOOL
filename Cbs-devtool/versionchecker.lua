@@ -1,5 +1,5 @@
 local CBS_CurrentVersion = "1.0.0"
-local CBS_GithubRepo = "your-github-username/Cbs-devtool"
+local CBS_GithubRepo = "CbsSTUDIOS/DEV-TOOL"
 
 
 local function CBSFunction_PrintLogo()
